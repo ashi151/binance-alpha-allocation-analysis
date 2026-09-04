@@ -1,0 +1,5 @@
+Event_ID,Token_Symbol,Event_Type,Point_Threshold,Claim_Window_Hours,Inflow_Velocity_T1_pct,Status
+EVT-001,ALPHA_A,Airdrop,240,24,68.4,Completed
+EVT-002,ALPHA_B,TGE_Bonding,180,12,54.2,Completed
+EVT-003,ALPHA_C,Prime_TGE,300,6,72.1,Completed
+EVT-004,ALPHA_D,Booster,150,48,41.0,Completed
